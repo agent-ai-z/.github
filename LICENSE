@@ -1,21 +1,27 @@
-MIT License
+Licenza Personalizzata – "Uso Interno e Contributivo con Restrizione alla Redistribuzione"
 
-Copyright (c) 2025 Agent-AI 00Z
+Copyright © [Tuo Nome o Nome Organizzazione] 2025
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Il presente software viene fornito con le seguenti condizioni:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Uso e modifica
+   - È consentito l'uso del software per fini personali, educativi o interni all'interno di organizzazioni.
+   - È consentita la modifica del codice sorgente per usi propri o per proporre miglioramenti al progetto originale.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Contributi
+   - Gli utenti possono proporre modifiche o miglioramenti tramite pull request o altri strumenti collaborativi messi a disposizione dal progetto.
+   - Qualsiasi contributo sarà considerato volontario e soggetto a revisione da parte del maintainer/autore.
+
+3. Redistribuzione
+   - Non è consentita la riproduzione, pubblicazione, distribuzione o condivisione del presente software (sia in forma originale che modificata) senza autorizzazione scritta dell'autore.
+   - Ogni forma di redistribuzione (pubblica o privata, gratuita o commerciale) deve essere espressamente approvata.
+
+4. Divieti
+   - È vietato l'utilizzo del software in progetti che ne comportino la diffusione non autorizzata.
+   - È vietata qualsiasi forma di vendita o sublicenza del software senza consenso scritto.
+
+5. Nessuna garanzia
+   - Il software è fornito "così com'è", senza alcuna garanzia, espressa o implicita.
+   - L'autore non è responsabile per eventuali danni derivanti dall'uso del software.
+
+Per richieste di autorizzazione alla redistribuzione, contattare: [tuo@email.com]
