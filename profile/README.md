@@ -79,7 +79,7 @@ Se stai sperimentando o sviluppando agenti su LangGraph, puoi:
 ## 📜 Licenza
 
 Questo progetto è distribuito sotto licenza **MIT**.  
-Puoi consultare il file [LICENSE.md](./LICENSE.md) per tutti i dettagli.
+Puoi consultare il file [LICENSE.md](../LICENSE.md) per tutti i dettagli.
 
 ---
 
