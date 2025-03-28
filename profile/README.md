@@ -87,8 +87,7 @@ Puoi consultare il file [LICENSE.md](./LICENSE.md) per tutti i dettagli.
 
 Per domande, collaborazioni o feedback:
 
-📩 Email: g.zileni@quest-it.com  
-💬 Slack Community: #agent-ai-lab
+📩 Email: g.zileni@quest-it.com
 
 ---
 
