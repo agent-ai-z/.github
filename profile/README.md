@@ -4,7 +4,7 @@ Benvenuto nel **Agent AI 00Z - Agent AI Lab**, un laboratorio di sviluppo focali
 
 Questo repository raccoglie una serie di progetti, modelli e implementazioni per la costruzione, orchestrazione e sperimentazione di **Autonomous AI Agents** in grado di svolgere task complessi, interagire con fonti esterne e prendere decisioni autonome in ambienti dinamici.
 
-![Agent AI](../agent-ai-z.jpg)
+![Agent AI](./agent-ai-z.png)
 
 ---
 
@@ -79,7 +79,7 @@ Se stai sperimentando o sviluppando agenti su LangGraph, puoi:
 ## 📜 Licenza
 
 Questo progetto è distribuito sotto licenza **MIT**.  
-Puoi consultare il file [LICENSE.md](../LICENSE.md) per tutti i dettagli.
+Puoi consultare il file [LICENSE.md](./LICENSE.md) per tutti i dettagli.
 
 ---
 
@@ -87,7 +87,10 @@ Puoi consultare il file [LICENSE.md](../LICENSE.md) per tutti i dettagli.
 
 Per domande, collaborazioni o feedback:
 
-📩 Email: g.zileni@quest-it.com
+📩 Email:
+
+- [g.zileni@quest-it.com](mailto:g.zileni@quest-it.com)
+- [giuseppe.zileni@gmail.com](mailto:giuseppe.zileni@gmail.com)
 
 ---
 
