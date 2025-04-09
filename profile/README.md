@@ -4,9 +4,7 @@ Benvenuto nel **Agent AI 00Z - Agent AI Lab**, un laboratorio di sviluppo focali
 
 Questo repository raccoglie una serie di progetti, modelli e implementazioni per la costruzione, orchestrazione e sperimentazione di **Autonomous AI Agents** in grado di svolgere task complessi, interagire con fonti esterne e prendere decisioni autonome in ambienti dinamici.
 
-<center>
-    <img src="./agent-ai-z.png" alt="agent-ai-z" width="400"/>
-</center>
+![Agent AI](./agent-ai-z.png)
 
 ---
 
